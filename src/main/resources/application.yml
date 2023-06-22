@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      username: admin
+      password: admin
+      database: mongodb-test
+      port: 27017
+      host: mongo
