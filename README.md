@@ -8,7 +8,7 @@ To build and run the project, follow these steps:
 
 1. Clone the repository:
 
-`git clone https://github.com/your-username/your-project.git`
+`git clone git@github.com:nazarchykur/sb-mongodb-test.git`
 
 `cd your-project`
 
