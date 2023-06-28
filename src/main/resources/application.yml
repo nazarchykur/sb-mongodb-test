@@ -1,6 +1,5 @@
 spring:
   data:
     mongodb:
-      uri: mongodb://admin:admin@0.0.0.0/mongodb-test?authSource=admin
-      database: mongodb-test
       authentication-database: admin
+      uri: mongodb://admin:admin@mongo:27017/mydatabase?authSource=admin
